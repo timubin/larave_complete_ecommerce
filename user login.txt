@@ -1,0 +1,7 @@
+
+login access 
+login = http://127.0.0.1:8000/admin
+
+user email: mubin3242@gmail.com
+
+pass : 1234
