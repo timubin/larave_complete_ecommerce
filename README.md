@@ -1,4 +1,4 @@
-# larave_complete_ecommerce
+# laravel_complete_ecommerce
 This is a sample e-commerce website built using the Laravel framework. It includes the following features:
 
 1. Product catalog: A section where customers can browse and search for products. This includes a list of products with images, prices, and descriptions.
